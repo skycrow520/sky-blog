@@ -1,5 +1,5 @@
 {
-  "image": "registry.cn-shanghai.aliyuncs.com/yore/bigdata:dev-mysql_v1",
+  "image": "centos:centos7.6.1810",
   "features": {
   }
 }
